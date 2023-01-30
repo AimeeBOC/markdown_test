@@ -14,6 +14,7 @@ Example:
 |----------|------------|
 |header    |title       |
 |paragraph |text        |
+
 _Cell width can vary. The rendered output will look the same so that the width of each cell doesn't matter._
 
 ## Alignment
@@ -23,6 +24,7 @@ Example:
 |:----|:-----:|---:|
 |math   |80       |100|
 |english |60      |98|
+
 As you can see, when adding colon(:) to the left then the cell align to the left. Same logic applies for the rest. 
 You can format the text within tables. For example, you can add _links, code (words or phrases in backticks (`) only, not code blocks), and emphasis._
 You **can’t use** headings, blockquotes, lists, horizontal rules, images, or most HTML tags in tables.
