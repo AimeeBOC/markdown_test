@@ -31,6 +31,7 @@ You **can’t use** headings, blockquotes, lists, horizontal rules, images, or m
 
 ## Code and code blocks
 To denote a word or phrase as code, enclose it in backticks (`)
+
 ![code](/Users/boc/Desktop/Markdown/截屏2023-01-29 16.24.22.png)
 
 If the word or phrase you want to denote as code includes one or more backticks, you can escape it by enclosing the word or phrase in double backticks (``).
