@@ -2,11 +2,6 @@
 
 The basic syntax outlined in the original Markdown design document added many of the elements needed on a day-to-day basis, but it wasn’t enough for some people. That’s where extended syntax comes in. But not all Markdown applications support extended syntax elements. 
 
-Several extended syntax will be introduced below:
-- Table
-- See HTML in the right
-- ✨Magic ✨
-
 ## Table
 To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. For compatibility, you should also add a pipe on either end of the row.
 Example:
